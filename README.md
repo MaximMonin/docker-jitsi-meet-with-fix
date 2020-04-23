@@ -1,5 +1,5 @@
 # docker-jitsi-meet-with-fix
-Docker jitsu-meet configuration with recoding fix.
+Docker jitsi-meet configuration with recoding fix.
 
 Default configuration jitsi-meet with jibrifix image included.
 Works with nginx-proxy
